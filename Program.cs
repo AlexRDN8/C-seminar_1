@@ -66,8 +66,23 @@
 // int number = int.Parse(Console.ReadLine());
 
 // int opposit_number = number - ( number * 2);
+
+// if (number > 0)
 // {
-//     Console.WriteLine(opposit_number);
+//     while (number > opposit_number)
+//     {
+//         Console.WriteLine(number);
+//         number --;
+//     }
+// }
+
+// if (number < 0)
+// {
+//     while (number < opposit_number | number == opposit_number)
+//     {
+//         Console.WriteLine(number);
+//         number ++;
+//     }
 // }
 
 // 4. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
